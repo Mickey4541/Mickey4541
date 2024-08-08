@@ -22,6 +22,6 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mickey4541&show_icons=true&locale=en" alt="mickey4541" /></p>
 
-<p><img align="left"  src="https://github-readme-streak-stats.herokuapp.com/?user=mickey4541&" alt="mickey4541" /></p>
+<p><img align="right"  src="https://github-readme-streak-stats.herokuapp.com/?user=mickey4541&" alt="mickey4541" /></p>
 </div>
 <a href="https://app.daily.dev/mickey4541"><img src="https://api.daily.dev/devcards/v2/Seq1WHa8MvMu9JORH7BR1.png?type=wide&r=mrj" width="652" alt="Rajan Bhandari's Dev Card"/></a>
