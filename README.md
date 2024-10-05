@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mickey4541&label=Profile%20views&color=0e75b6&style=flat" alt="mickey4541" /> </p>
 
-- 🌱 I’m currently learning **Javascript and React.**
+- 🌱 I’m currently learning **Javascript.**
 
 - ⚡ Fun fact **I love travelling, watching Movies.💕😅**
 
