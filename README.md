@@ -1,27 +1,48 @@
-![logo](https://github.com/Mickey4541/gifs/blob/main/github%20banner.png)
+![Programming Banner](https://github.com/Mickey4541/gifs/blob/6df83ba39e637c29e66d29e355461a4d9254430c/bannernsldfk.jpg)
 <h1 align="center">Hi, My Name is Rajan Bhandari.</h1>
-<h3 align="center">A passionate frontend web developer and BCA Student from Nepal.</h3>
+<h3 align="center">A passionate Full Stack Web Developer and BCA Student from Nepal.</h3>
 
-<img align = "right" alt = "coding" width = "400" src = "https://github.com/Mickey4541/gifs/blob/main/coding%20from%20home.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mickey4541&label=Profile%20views&color=0e75b6&style=flat" alt="mickey4541" /> </p>
-
-- 🌱 I’m currently learning **Javascript.**
-
+- 🌱 I’m currently learning **Full Stack Web Development**
 - ⚡ Fun fact **I love travelling, watching Movies.💕😅**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/rajan-bhandari4541/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajan bhandari" height="30" width="40" /></a>
+  <img align="right" alt="coding" width="400" src="https://github.com/Mickey4541/gifs/blob/main/coding%20from%20home.gif">
+
+
+  ## 📫 Connect with Me
+  <a href="https://github.com/Mickey4541">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/razan-bhandari/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  ## 🚀Followers and Views
+  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mickey4541&color=blue" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Mickey4541?label=Follow&style=social" alt="GitHub followers"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-<div style: flex-direction = "column">
-<p><img align="left" width="50%" height="50%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=mickey4541&show_icons=true&locale=en&layout=compact" alt="mickey4541" /></p>
 
-<p>&nbsp;<img align="right"  width="50%" src="https://github-readme-stats.vercel.app/api?username=mickey4541&show_icons=true&locale=en" alt="mickey4541" /></p>
+## 🚀 Skills
 
-<p><img align="left"  width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=mickey4541&" alt="mickey4541" /></p>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit"/>
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
 
+## 🔫Github Statistics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mickey4541&show_icons=true&theme=radical" alt="Mickey4541's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mickey4541&layout=compact&theme=radical" alt="Top Langs"/>
+</p>
